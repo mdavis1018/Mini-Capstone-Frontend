@@ -1,0 +1,12 @@
+#products-index img {
+  width: 300px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  font-family: Hoefler Text,Baskerville Old Face,Garamond,Times New Roman,serif color,#00FFFF; 
+    background-image: url(assets/checkerboard-cross.png);
+}
